@@ -1,4 +1,0 @@
-<!--pages/Child/Pigeon/Pigeon.wxml-->
-<view class="container">
-  <image class="image" mode='widthFix' src='/image/pigeon.jpg'></image>
-</view>

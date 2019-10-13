@@ -1,4 +1,0 @@
-<!--pages/Child/Pig/Pig.wxml-->
-<view class="container">
-  <image class="image" mode='widthFix' src='/image/pig.jpg'></image>
-</view>
